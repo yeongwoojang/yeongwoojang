@@ -1,4 +1,7 @@
 ## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yoeongwoo-nl-Profile&fontSize=60" />
+<img alt="Static Badge" src="https://img.shields.io/badge/android-passing?style=for-the-badge&logo=android&logoColor=white">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **yeongwoojang/yeongwoojang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
