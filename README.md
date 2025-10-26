@@ -8,10 +8,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/android-passing?style=for-the-badge&logo=android&logoColor=white">&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/kotlin-passing?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=%237F52FF&color=%237F52FF">&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-passing?style=for-the-badge&logo=Java&logoColor=white&labelColor=%235DACDF&color=%235DACDF">&nbsp
-</div>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Compose-passing?style=for-the-badge&logo=Jetpack-Compose&logoColor=white&labelColor=%234285F4&color=%234285F4">&nbsp
 </div>
 
