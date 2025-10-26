@@ -18,11 +18,15 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">🌱 Study 🌱</h3>
 <div align="center">
   <a href="https://daffodil-purpose-1f8.notion.site/2e1fbb9096404e70a47ab32f83d5927a">
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
+</div>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
   <a href="sbtmxhs@gmail.com">
     <img
       src="https://img.shields.io/badge/sbtmxhs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
